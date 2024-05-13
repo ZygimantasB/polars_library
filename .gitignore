@@ -225,6 +225,8 @@ pip-selfcheck.json
 ### PuTTY template
 # Private key
 *.ppk
+*.pkl
+*.parquet
 
 ### Text template
 *.doc
