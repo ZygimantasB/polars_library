@@ -4,6 +4,8 @@
 
 # File formats
 *.csv
+pyproject.toml
+uv.lock
 
 # User-specific stuff
 .idea/**/workspace.xml
