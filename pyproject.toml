@@ -1,0 +1,16 @@
+[project]
+name = "polars-library"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=5.5.0",
+    "matplotlib>=3.10.5",
+    "notebook>=7.4.7",
+    "pandas>=2.3.1",
+    "plotly>=6.3.1",
+    "polars>=1.32.2",
+    "pyarrow>=21.0.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.5",
+]
