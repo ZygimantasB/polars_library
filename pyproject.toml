@@ -11,6 +11,7 @@ dependencies = [
     "plotly>=6.3.1",
     "polars>=1.32.2",
     "pyarrow>=21.0.0",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.5",
 ]
