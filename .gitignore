@@ -4,6 +4,7 @@
 
 # File formats
 *.csv
+logs_craper.ipynb
 
 # User-specific stuff
 .idea/**/workspace.xml
