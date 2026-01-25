@@ -6,6 +6,7 @@
 *.csv
 logs_craper.ipynb
 all_meseges_telegram.ipynb
+nul
 
 # User-specific stuff
 .idea/**/workspace.xml
