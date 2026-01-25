@@ -5,6 +5,7 @@ description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
     "altair>=5.5.0",
+    "fastexcel>=0.19.0",
     "hvplot>=0.12.1",
     "matplotlib>=3.10.5",
     "notebook>=7.4.7",
