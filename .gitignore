@@ -10,6 +10,7 @@ nul
 skills
 SKILL.m
 .agent
+settings.local.json
 
 # User-specific stuff
 .idea/**/workspace.xml
