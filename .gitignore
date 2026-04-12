@@ -11,6 +11,7 @@ skills
 SKILL.m
 .agent
 settings.local.json
+spotify_2026_tasks.md
 
 # User-specific stuff
 .idea/**/workspace.xml
