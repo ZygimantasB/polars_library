@@ -8,6 +8,7 @@ dependencies = [
     "fastexcel>=0.19.0",
     "hvplot>=0.12.1",
     "matplotlib>=3.10.5",
+    "mcp[cli]>=1.27.0",
     "notebook>=7.4.7",
     "pandas>=2.3.1",
     "plotly>=6.3.1",
