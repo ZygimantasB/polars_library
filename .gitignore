@@ -13,6 +13,7 @@ SKILL.m
 settings.local.json
 spotify_2026_tasks.md
 delete.ipynb
+meilisearch
 
 # User-specific stuff
 .idea/**/workspace.xml
