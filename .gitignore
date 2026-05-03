@@ -12,6 +12,7 @@ SKILL.m
 .agent
 settings.local.json
 spotify_2026_tasks.md
+delete.ipynb
 
 # User-specific stuff
 .idea/**/workspace.xml
