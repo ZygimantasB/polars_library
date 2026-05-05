@@ -14,6 +14,8 @@ settings.local.json
 spotify_2026_tasks.md
 delete.ipynb
 meilisearch
+.claude
+mcp.json
 
 # User-specific stuff
 .idea/**/workspace.xml
