@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "obsidian-mcp",
+        "/home/zygimantas/Documents/Obsidian Vault/"
+      ]
+    }
+  }
+}
