@@ -8,6 +8,7 @@ app = marimo.App(width="full")
 def _():
     import marimo as mo
     import polars as pl
+    import polars.selectors as cs
 
     return (pl,)
 
@@ -21,11 +22,48 @@ def _():
 @app.cell
 def _(df_path, pl):
     df = pl.read_csv(df_path)
+    return (df,)
+
+
+@app.cell
+def _(df):
+    print(df.collect_schema())
     return
 
 
 @app.cell
-def _():
+def _(df):
+    df.glimpse()
+    return
+
+
+@app.cell
+def _(df):
+    df.describe()
+    return
+
+
+@app.cell
+def _(df):
+    df.estimated_size('mb')
+    return
+
+
+@app.cell
+def _(df):
+    df.shape()
+    return
+
+
+@app.cell
+def _(df):
+    df.height
+    return
+
+
+@app.cell
+def _(df):
+    df.width()
     return
 
 

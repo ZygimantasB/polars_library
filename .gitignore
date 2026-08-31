@@ -16,6 +16,7 @@ delete.ipynb
 meilisearch
 .claude
 mcp.json
+*.md
 
 # User-specific stuff
 .idea/**/workspace.xml
